@@ -14,4 +14,5 @@ npm install @react-navigation/native-stack
 ### 3. Drawer Navigation
 ```sh
 npm install @react-navigation/drawer
+npx expo install react-native-gesture-handler react-native-reanimated
 ```
