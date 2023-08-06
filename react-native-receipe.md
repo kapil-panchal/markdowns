@@ -15,4 +15,5 @@ npm install @react-navigation/native-stack
 ```sh
 npm install @react-navigation/drawer
 npx expo install react-native-gesture-handler react-native-reanimated
+ERROR - npm install react-native-reanimated@1 --save --save-exact
 ```
