@@ -20,3 +20,7 @@ npx expo install react-native-gesture-handler react-native-reanimated
 ```sh
 npm install @react-navigation/bottom-tabs
 ```
+### 5. React REDUX and Redux Toolkit
+```sh
+npm install @reduxjs/toolkit react-redux
+```
