@@ -1,11 +1,20 @@
 # Finance Dashboard Dependencies
 
-## 1. React Vite with Typescript
+## 1. React Vite with Typescript [Ref](https://vitejs.dev/guide/)
 ```sh
 npm create vite@latest
 ```
-## 2. Redux and Redux Toolkit
+## 2. Redux [Ref](https://react-redux.js.org/introduction/getting-started)
 ```sh
 npm install react-redux
 npm install @reduxjs/toolkit
+```
+## 3. Redux Toolkit [Ref](https://redux-toolkit.js.org/introduction/getting-started)
+```sh
+npm install react-router-dom
+```
+
+## 4. React Router Dom [Ref](https://reactrouter.com/en/main/start/tutorial#setup)
+```sh
+npm install react-router-dom
 ```
