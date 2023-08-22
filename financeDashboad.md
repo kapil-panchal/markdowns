@@ -4,3 +4,8 @@
 ```sh
 npm create vite@latest
 ```
+## 2. Redux and Redux Toolkit
+```sh
+npm install react-redux
+npm install @reduxjs/toolkit
+```
