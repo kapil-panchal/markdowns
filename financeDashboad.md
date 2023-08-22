@@ -25,3 +25,7 @@ npm install @mui/material @emotion/react @emotion/styled
 ```sh
 npm install @mui/icons-material
 ```
+## 7. Mui Material X-Data-Grid [Ref](https://mui.com/x/react-data-grid/getting-started/)
+```sh
+npm install @mui/x-data-grid
+```
