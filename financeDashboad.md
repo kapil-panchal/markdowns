@@ -7,11 +7,10 @@ npm create vite@latest
 ## 2. Redux [Ref](https://react-redux.js.org/introduction/getting-started)
 ```sh
 npm install react-redux
-npm install @reduxjs/toolkit
 ```
 ## 3. Redux Toolkit [Ref](https://redux-toolkit.js.org/introduction/getting-started)
 ```sh
-npm install react-router-dom
+npm install @reduxjs/toolkit
 ```
 
 ## 4. React Router Dom [Ref](https://reactrouter.com/en/main/start/tutorial#setup)
