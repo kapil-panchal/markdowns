@@ -29,3 +29,7 @@ npm install @mui/icons-material
 ```sh
 npm install @mui/x-data-grid
 ```
+## 8. Types for Development [Ref](https://www.npmjs.com/package/@types/react-dom?activeTab=versions)
+```sh
+npm install -D @types/react-dom
+```
