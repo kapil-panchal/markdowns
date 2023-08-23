@@ -33,3 +33,7 @@ npm install @mui/x-data-grid
 ```sh
 npm install -D @types/react-dom
 ```
+## 9. Google Fonts
+```sh
+https://fonts.google.com/specimen/Inter
+```
