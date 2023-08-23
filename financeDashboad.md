@@ -37,3 +37,11 @@ npm install -D @types/react-dom
 ```sh
 https://fonts.google.com/specimen/Inter
 ```
+## 10. Eslint
+```sh
+npm i eslint
+```
+## 11. Eslint-Config-react-app
+```sh
+npm i eslint-config-react-app
+```
