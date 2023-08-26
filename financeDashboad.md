@@ -57,5 +57,6 @@ npm init -y
 
 ## 2. Installs
 ```sh
-npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency 
+npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency
+npm i -D nodemon
 ```
