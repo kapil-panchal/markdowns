@@ -1,5 +1,7 @@
 # Finance Dashboard Dependencies
 
+## FrontEnd
+
 ## 1. React Vite with Typescript [Ref](https://vitejs.dev/guide/)
 ```sh
 npm create vite@latest
@@ -44,4 +46,16 @@ npm i eslint
 ## 11. Eslint-Config-react-app
 ```sh
 npm i eslint-config-react-app
+```
+
+## BackEnd
+
+## 1. NPM init
+```sh
+npm init -y
+```
+
+## 2. Installs
+```sh
+npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency 
 ```
