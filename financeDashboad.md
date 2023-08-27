@@ -48,6 +48,11 @@ npm i eslint
 npm i eslint-config-react-app
 ```
 
+## 12. Recharts
+```sh
+npm install recharts
+```
+
 ## BackEnd
 
 ## 1. NPM init
